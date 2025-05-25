@@ -7,5 +7,6 @@ public class hello {
         System.out.println("hello3.0");
         System.out.println("hello4.0");
         System.out.println("master-test");
+        System.out.println("hot-fix-test");
     }
 }
